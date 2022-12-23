@@ -1,4 +1,4 @@
-# php_primer
+# php_primer v2
 
 This project is associated with the following course
 
